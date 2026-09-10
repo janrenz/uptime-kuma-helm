@@ -24,7 +24,7 @@ jobs:
       - name: Install Helm
         uses: azure/setup-helm@v4
         with:
-          version: v3.4.0
+          version: v4.3.0
 
       # - name: Prepare GPG Key
       #   run: |
